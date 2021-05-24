@@ -1,0 +1,13 @@
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\bin\Debug\netcoreapp3.1\DemoAccesModifiers.exe
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\bin\Debug\netcoreapp3.1\DemoAccesModifiers.deps.json
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\bin\Debug\netcoreapp3.1\DemoAccesModifiers.runtimeconfig.json
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\bin\Debug\netcoreapp3.1\DemoAccesModifiers.runtimeconfig.dev.json
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\bin\Debug\netcoreapp3.1\DemoAccesModifiers.dll
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\bin\Debug\netcoreapp3.1\DemoAccesModifiers.pdb
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.csprojAssemblyReference.cache
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.AssemblyInfoInputs.cache
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.AssemblyInfo.cs
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.dll
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.pdb
+C:\Users\Ifedayo\Documents\week7\DemoAccesModifiers\obj\Debug\netcoreapp3.1\DemoAccesModifiers.genruntimeconfig.cache
